@@ -34,20 +34,6 @@ The full tutorial can be found at https://docs.angularjs.org/tutorial.
   an Angular application.
 
 
-## Commits / Tutorial Outline
-
-You can check out any point of the tutorial using:
-
-```
-git checkout step-?
-```
-
-To see the changes made between any two lessons use the `git diff` command:
-
-```
-git diff step-?..step-?
-```
-
 ### step-0 _Bootstrapping_
 
 - Add the 'angular.js' script.
