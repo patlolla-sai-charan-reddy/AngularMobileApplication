@@ -1,5 +1,3 @@
-'use strict';
-
 describe('PhoneListController', function() {
 
   beforeEach(module('phonecatApp'));
@@ -12,3 +10,4 @@ describe('PhoneListController', function() {
   }));
 
 });
+
