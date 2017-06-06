@@ -12,7 +12,8 @@
 		<ul>
 			<li ng-repeat="phone in $ctrl.phones | filter:$ctrl.query | orderBy:$ctrl.orderProp">
 				<span>{{phone.name}}</span>
-				<p>{{phone.details}}</p>
+				<p>{{phone.snippet}}</p>
+				<img ng-src="{{phone.imageUrl}}">
 			</li>
 		</ul>
 
