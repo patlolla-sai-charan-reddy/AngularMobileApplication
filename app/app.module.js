@@ -3,6 +3,7 @@ angular.module("phonecatApp", [
 	'phoneList',
 	'greetUser',
 	'phoneDetail',
-	'core'
+	'core',
+	'ngAnimate'
 
 ]);
