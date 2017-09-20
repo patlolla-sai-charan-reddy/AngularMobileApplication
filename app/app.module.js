@@ -5,5 +5,4 @@ angular.module("phonecatApp", [
 	'phoneDetail',
 	'core',
 	'ngAnimate'
-
 ]);
