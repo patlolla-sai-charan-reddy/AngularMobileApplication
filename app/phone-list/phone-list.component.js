@@ -1,3 +1,4 @@
+// Phone List Component
 angular.
 	module('phoneList').
 	component('phoneList', {

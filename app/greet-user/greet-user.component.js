@@ -1,3 +1,4 @@
+// Greet Component
 angular.
 	module('greetUser').
 	component('greetUser', {
