@@ -1,4 +1,4 @@
-// Phone List Component
+// Phone List Component and add the tab list
 angular.
 	module('phoneList').
 	component('phoneList', {
