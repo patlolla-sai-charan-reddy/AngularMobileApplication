@@ -14,3 +14,5 @@ angular.
         otherwise('/phones');
     }
   ]);
+
+  // Upgrade work is in progress
